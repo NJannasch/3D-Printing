@@ -7,6 +7,7 @@ Overview on helpful resources for 3D printing
     - **Ready to use**
         - [Thingiverse](https://thingiverse.com)
         - [Prusaprinters](Prusaprinters.org)
+        - [MyMiniFactory](https://www.myminifactory.com/)
     - **Custom**
         - **CAD**
             - Fusion 360
