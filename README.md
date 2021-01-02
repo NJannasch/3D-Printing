@@ -13,6 +13,8 @@ Overview on helpful resources for 3D printing
             - Fusion 360
         - **Slicer**
             - [Cura](https://github.com/Ultimaker/Cura)
+        - **Modifying**
+            - [Meshmixer](https://www.meshmixer.com)
 
 2. Printer Software
     - **Firmware**
